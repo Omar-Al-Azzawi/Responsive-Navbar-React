@@ -1,11 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300;600&family=Nanum+Gothic+Coding:wght@400;700&display=swap");
 * {
   margin: 0;
   padding: 0;
 }
 body {
   background-image: url(./components/images/img1.png);
-
-  background-color: lightblue;
+  font-family: "Nanum Gothic Coding", monospace;
 }
 .pages {
   color: black;

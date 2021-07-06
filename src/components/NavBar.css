@@ -72,7 +72,7 @@
     opacity: 1;
   }
   .nav-menu.active {
-    background-color: #99738ede;
+    background-color: #242682d0;
     left: 0px;
     opacity: 1;
     transition: all 0.5s ease;
@@ -88,6 +88,6 @@
   .nav-icon {
     display: block;
     margin: 20px;
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
 }
